@@ -17,7 +17,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <javax.servlet.api.version>3.1.0</javax.servlet.api.version>
-    <apache.commons.fileupload.version>1.2.2</apache.commons.fileupload.version>
+    <apache.commons.fileupload.version>1.3.3</apache.commons.fileupload.version>
   </properties>
 
   <dependencies>
